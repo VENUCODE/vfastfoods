@@ -1,0 +1,41 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Built files
+dist/
+build/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.bak
+
+# Compiled binary addons (like node-sass)
+build/Release
+
+# Coverage directory
+coverage/
+
+# Jest test coverage
+coverage/
+
+
+
+# npm debug log file
+npm-debug.log
